@@ -1,0 +1,35 @@
+{
+  "students": [
+    {
+      "Name": "Manikanta",
+      "Email": "Manika",
+      "Designation": "bjbf",
+      "id": 1
+    },
+    {
+      "Name": "praveen",
+      "Email": "manikanta995975@gmail.com",
+      "Designation": "bnbn",
+      "id": 2
+    },
+    {
+      "Name": "Manikanta",
+      "Email": "Manika",
+      "Designation": "bjbf",
+      "id": 3
+    },
+    {
+      "Name": "Manikanta",
+      "Email": "Manikanta995975@gmail.com",
+      "Designation": "hh",
+      "id": 4
+    },
+    {
+      "Id": null,
+      "Name": "manikanata",
+      "Email": "manikanta995975@gmail.com",
+      "Designation": "mvmvm",
+      "id": 5
+    }
+  ]
+}
